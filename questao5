@@ -1,0 +1,11 @@
+a) Imperativas
+	Programação imperativas são linguagens onde o desenvolvedor comanda, dá uma série de ações e expressam ordem para o programa. As linguagens imperativas mais conhecidas é a linguagem C e o FORTRAN.
+
+b) Funcional
+	O conceito básico da linguagem funcional são baseadas em funções matematicas. A linguagem aceita aplicações de funções sob parâmetros. Exemplos de linguagem funcional: LISP e Haskell.
+
+c) Lógica
+	A linguagem lógica é baseada em fatos e regras. Ex: Prolog
+
+d) Marcação/hibrida
+	São linguagens de marcação que suportam alguma lógica de programação. Por exemplo XSLT.

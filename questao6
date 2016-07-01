@@ -1,0 +1,3 @@
+<expr> → <expo> * <expr> | <expo>
+<expo>→ <base> ^ <expo> | <base>
+<base>→ A | B | C
